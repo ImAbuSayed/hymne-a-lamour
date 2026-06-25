@@ -1,6 +1,6 @@
 # License
 
-**Hymne À L'amour**
+**Hymne À L'amour, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 

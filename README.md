@@ -1,4 +1,4 @@
-# Hymne À L'amour
+# Hymne À L'amour, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Hymne À L'amour |
+| **Title** | Hymne À L'amour, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/hymne-a-lamour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Hymne À L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hymne-a-lamour/) |
+| **Get License** | [Secure Licensing Rights for Hymne À L'amour, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/hymne-a-lamour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Paris s'éveille, mais nous on vit la nuit
+> Sous les néons, ton parfum me poursuit
+> Dans cette danse, on oublie le danger
+> Viens avec moi, let's make a getaway
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 24, 2026 |
+| **SHA-256 Hash** | `4ca23ae0067a6d387214515ca400cc4c6e1b7c0da5e0fc02c8e54bd54078a8c6` |
+| **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
